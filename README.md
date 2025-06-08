@@ -1,2 +1,2 @@
 # GetMeChai...
-This web site is developed on react js, mongo db, express js and tailwind css
+This web site is developed on Next js, mongo db and tailwind css
